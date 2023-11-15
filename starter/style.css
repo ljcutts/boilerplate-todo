@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+.title {
+  display: flex;
+  justify-content: center;
+  place-items: center;
+}
+
+
+.taskList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  place-items: center;
+}
+
+#tasks {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  place-items: center;
+  margin-bottom: 2rem;
+}
+
+.inputBar {
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  margin-bottom: 2rem;
+}
+
+button {
+  margin-bottom: 2rem;
+}
